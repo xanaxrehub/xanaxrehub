@@ -1,3 +1,4 @@
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <h1 align="center">Hi 👋, I'm Ihor Shtefanets</h1>
 <h3 align="center">European student, Frontend developer with great potential</h3>
 
