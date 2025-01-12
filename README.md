@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" align="center" height="200" width="" /><br>
 </p>
-<h1 align="center">Hi 👋, I'm Ihor Shtefanets</h1>
-<h3 align="center">European student, Frontend developer with great potential</h3>
+<h1 align="left">Hi 👋, I'm Ihor Shtefanets</h1>
+<h3 align="left">European student, Frontend developer with great potential</h3>
 
 - 🌱 I’m currently learning **JavaScript, Vue.js, Typescript**
 
