@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" align="left" height="200" width="" />  
+<img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" align="left" height="200" width="" /></br>
 <h1 align="center">Hi 👋, I'm Ihor Shtefanets</h1>
 <h3 align="center">European student, Frontend developer with great potential</h3>
 
