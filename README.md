@@ -8,10 +8,13 @@
 
 - 📫 How to reach me **shtefanets206@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/xanaxrehub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xanaxrehub" height="30" width="40" /></a>
-</p>
+### Social:  
+<a href="https://instagram.com/https://www.instagram.com/xanaxrehub/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/xanaxrehub" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
 
 ### My Skill Set:
 <div>
